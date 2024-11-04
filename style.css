@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Arial', sans-serif;
+    background-color: #222;
+    color: #fff;
+    background: url('images/keyboard_1.webp') no-repeat center center fixed;
+    background-size: cover; /* Keep the keyboard image as the background */
+  }
+  
+  .tester-container {
+    position: relative; /* Position relative for absolute children */
+    text-align: center;
+    padding: 20px; /* Add some padding */
+    border-radius: 15px; /* Rounded corners for the container */
+    backdrop-filter: blur(8px); /* Apply a blur effect */
+    background-color: rgba(0, 0, 0, 0.4); /* Transparent background */
+    max-width: 600px; /* Set a maximum width */
+    width: 100%; /* Full width on smaller screens */
+    z-index: 1; /* Ensure content is above the background */
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 3em;
+    color: #00ffcc;
+  }
+  
+  #key-info {
+    margin-top: 20px;
+  }
+  
+  .key-display {
+    font-size: 2em;
+    margin: 10px 0;
+  }
+  
+  .secondHeading {
+    color: rgb(154, 154, 154);
+  }
+  
+  #typed-keys {
+    margin-top: 30px;
+    font-size: 1.5em;
+    word-wrap: break-word;
+    padding: 10px;
+    border-top: 2px solid #00ffcc;
+    max-height: 100px;
+    overflow-y: auto;
+  }
+  
+  #typed-keys::before {
+    content: "Typed Keys: ";
+    font-size: 1.2em;
+    color: #ff8800;
+  }
+  
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
