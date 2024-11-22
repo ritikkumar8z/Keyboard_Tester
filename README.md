@@ -5,7 +5,7 @@ assessing the overall keyboard performance, this tool provides an easy and inter
 # ✨ Features  
 🔄 Real-time Key Detection – Instantly detect and display each key press.
 💡 Visual Feedback – Highlights pressed keys for clear visual feedback.  
-🖥️ Responsive Design – Works seamlessly across devices and screen sizes.
+🖥️ Responsive Design – Works seamlessly across devices and screen sizes. 
  
 # 🚀 Technologies Used
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p>
