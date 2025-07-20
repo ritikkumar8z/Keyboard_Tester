@@ -4,7 +4,7 @@ assessing the overall keyboard performance, this tool provides an easy and inter
      
 # ✨ Features    
 🔄 Real-time Key Detection – Instantly detect and display each key press.  
-💡 Visual Feedback – Highlights pressed keys for clear visual feedback.  
+💡 Visual Feedback – Highlights pressed keys for clear visual feedback.   
 🖥️ Responsive Design – Works seamlessly across devices and screen sizes.   
     
 # 🚀 Technologies Used 
