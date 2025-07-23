@@ -12,7 +12,7 @@ assessing the overall keyboard performance, this tool provides an easy and inter
   
 # 📚 How to Use 
 Open the Application: Navigate to the application page.
-Press Any Key: Each key press will be displayed, showing which key is pressed in real-time. 
+Press Any Key: Each key press will be displayed, showing which key is pressed in real-time.  
 Test All Keys: Make sure every key on your keyboard is working as expected. 
 
 # 📌 Demo
