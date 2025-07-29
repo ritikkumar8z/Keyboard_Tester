@@ -3,7 +3,7 @@ Keyboard Tester is a web application designed to help users test every key on th
 assessing the overall keyboard performance, this tool provides an easy and interactive way to check each key’s functionality.
      
 # ✨ Features    
-🔄 Real-time Key Detection – Instantly detect and display each key press.   
+🔄 Real-time Key Detection – Instantly detect and display each key press.    
 💡 Visual Feedback – Highlights pressed keys for clear visual feedback.   
 🖥️ Responsive Design – Works seamlessly across devices and screen sizes.   
      
